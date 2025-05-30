@@ -297,4 +297,9 @@ ls -la server_files/
 
 ---
 
+## 📬 Contact
+
+Built by [@Upnit-b](https://github.com/Upnit-b) — feel free to reach out via GitHub Issues for any suggestions or bugs.
+
+
 **Note**: This file server is designed for educational purposes and local network use. For production deployment, implement proper security measures including authentication, encryption, and input validation.
